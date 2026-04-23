@@ -1,6 +1,14 @@
 # ☕️ Starbucks-NLP-Sentiment-Pipeline 
 An end-to-end Natural Language Processing (NLP) pipeline analyzing thousands of Starbucks customer reviews using LDA topic modeling and an LSTM neural network  to uncover geographic business insights.
 
+datasets:
+
+☕️ Starbucks Reviews:
+https://www.kaggle.com/datasets/harshalhonde/starbucks-reviews-dataset
+
+🏫US Universities Dataset:
+https://www.kaggle.com/datasets/rishidamarla/colleges-and-universities-in-the-us
+
 This repository contains a complete Natural Language Processing (NLP) project built in Python. 
 
 Impact:
